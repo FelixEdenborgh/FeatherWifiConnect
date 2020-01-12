@@ -5,8 +5,8 @@
 #include <ESP8266mDNS.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "SysPro";
-const char* password = "JoakimMimmiFelixAnton";
+const char* ssid     = "WIFI NAME";
+const char* password = "WIFI PASS";
 
 const char* host = "wifitest.adafruit.com";
 
